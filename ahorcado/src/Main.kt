@@ -53,8 +53,5 @@ fun main() {
         println("Has perdido")
     }
 
-    //1º pedir una letra mientras los fallos no sean siete o no se adivine paLabra
-    //2º cada vez que se haga un fallo debemos sumar un fallo y llamar a dibujoAhorcado.dibujar
-    //0 en algun lado guardar la palabra en las letras descubiertas e imprimirlas despues de cada acierto
-    //3º en caso de acierto debemos descubrir la letra en pedirPalabra,tienes que buscar la posicion en la plabra aleatoria y si las encuentras debes sustiuir en la misma posicion de  pedir palabra cambiar por letra
+   
 }
